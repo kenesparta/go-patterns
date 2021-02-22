@@ -1,0 +1,2 @@
+- These implementations was based on the book Design Patterns taken from **[Refactoring Guru](https://refactoring.guru)**
+- For more golang patterns see **[this](https://github.com/tmrts/go-patterns)** repository 
